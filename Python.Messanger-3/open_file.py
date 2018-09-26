@@ -9,7 +9,7 @@ class Example(QMainWindow):
         super().__init__()
 
         self.initUI()
-
+#fhgdfggdfg
 
     def initUI(self):
 
