@@ -37,9 +37,6 @@ class Example(QMainWindow):
         self.lbl.resize(640,640)
         self.lbl.setPixmap(pixmap)
 
-       # lbl.setPixmap(pixmap)
-
-
 if __name__ == '__main__':
 
     app = QApplication(sys.argv)
